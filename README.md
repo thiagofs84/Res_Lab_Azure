@@ -74,3 +74,24 @@
 > Recursos criados com mais 'noves' possuem menos tempo de inatividade.
  
 > As opções de gerenciamentam e outras configurações refletem no percentual do SLA.
+> 
+## 🏫 Aula: Tipos de Serviço de Nuvem na Azure
+
+### 🔖 Conteúdos: IaaS, PaaS e Saas na Azure | Modelo de Responsabilidade Compartilhada
+
+#### IaaS - Infraestrutura como serviço. 💻
+* Muito utilizado. 🎆
+* Entre os recursos temos: Servidores e armazenamento, Firewalls/segurança de rede, Planta fisica/data center. 🏗️
+* O cliente tem mais responsabilidade de acessos. ⚙️
+* Mais flexibilidade para personalizar o recurso final. 🔆
+
+#### PaaS - Plataforma como serviço. 🧰
+* Engloba os recursos de infraestrutura somados à: Sistemas operacionais e Ferramentas para desenvolvedores, Analise de Negócios de gerenciamento de database. 💻💻💻🔆
+* Nesse cenário o cliente está focado nas aplicações. O servidor e maquinas não são importantes. 👀
+* Fornece um ambiente sem focar no gerenciamento da infraestrutura subjacente. 🌴
+
+#### SaaS - Software como serviço. 💿
+* Engloba os recursos de infraestrutura e plataforma somados à: Aplicativos e Apps hospedados. ☁️ 📱 ☁️
+* O que determina os acessos são os modelos de licenciamento. 🥇 🥈 🥉
+
+> As nomenclaturas Iaas, PaaS e Saas não são exclusivos da Azure, são contextos genéricos de núvem.
