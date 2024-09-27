@@ -82,19 +82,22 @@
 #### IaaS - Infraestrutura como serviço. 💻
 * Muito utilizado. 🎆
 * Entre os recursos temos: Servidores e armazenamento, Firewalls/segurança de rede, Planta fisica/data center. 🏗️
-* O cliente tem mais responsabilidade de acessos. ⚙️
+* O cliente tem mais responsabilidade de acessos. ↗️⚙️
 * Mais flexibilidade para personalizar o recurso final. 🔆
 
 #### PaaS - Plataforma como serviço. 🧰
 * Engloba os recursos de infraestrutura somados à: Sistemas operacionais e Ferramentas para desenvolvedores, Analise de Negócios de gerenciamento de database. 💻💻💻🔆
 * Nesse cenário o cliente está focado nas aplicações. O servidor e maquinas não são importantes. 👀
 * Fornece um ambiente sem focar no gerenciamento da infraestrutura subjacente. 🌴
+* O gerenciamento de plataforma é realizado pelo provedor de nuvem. 🌩️
 
 #### SaaS - Software como serviço. 💿
 * Engloba os recursos de infraestrutura e plataforma somados à: Aplicativos e Apps hospedados. ☁️ 📱 ☁️
+* O cliente tem menos responsabilidade de acessos. ↙️⚙️
 * O que determina os acessos são os modelos de licenciamento. 🥇 🥈 🥉
+* Modelo de preço de pagamento conforme o uso. 💸
 
-#### Modelo de Responsabilidade Compartilhada. 💿
+#### Modelo de Responsabilidade Compartilhada.
 ![Modelo](https://github.com/thiagofs84/Res_Lab_Azure/blob/main/Capturar.JPG)
 
 
