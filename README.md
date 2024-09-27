@@ -98,7 +98,8 @@
 * Modelo de preço de pagamento conforme o uso. 💸
 
 #### Modelo de Responsabilidade Compartilhada.
-![Modelo](https://github.com/thiagofs84/Res_Lab_Azure/blob/main/Capturar.JPG)
+![Modelo](https://github.com/thiagofs84/Res_Lab_Azure/blob/main/Modelo.JPG)
+
 
 
 > As nomenclaturas Iaas, PaaS e Saas não são exclusivos da Azure, são contextos genéricos de núvem.
