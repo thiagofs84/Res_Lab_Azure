@@ -94,4 +94,8 @@
 * Engloba os recursos de infraestrutura e plataforma somados à: Aplicativos e Apps hospedados. ☁️ 📱 ☁️
 * O que determina os acessos são os modelos de licenciamento. 🥇 🥈 🥉
 
+#### Modelo de Responsabilidade Compartilhada. 💿
+![Modelo](https://github.com/thiagofs84/Res_Lab_Azure/blob/main/Capturar.JPG)
+
+
 > As nomenclaturas Iaas, PaaS e Saas não são exclusivos da Azure, são contextos genéricos de núvem.
