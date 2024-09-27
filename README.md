@@ -1,4 +1,4 @@
-# 🌐 Resumo Laboratório Azure - AZ-900
+# 🌐 Resumo Laboratório Azure - AZ-900 - Módulo 1️⃣
 
 ## 🏫 Aula: Localizando Serviços por Categoria
 ### 🔖 Conteúdo: Computação em Nuvem
@@ -47,3 +47,14 @@
 * No nível máximo de segurança, a infraestrutura fornecerá os recursos físicos, mas o usuário poderá gerenciar os sistemas instalados. ⚙️
 * Para a aplicação de patches e manutenção automática, plataformas ou software como serviço podem ser as melhores estratégias. 🤖
 
+### 🔖 Conteúdo: Governança e Gerenciabilidade
+
+#### GOVERNANÇA - Auditoria de nuvem que sinaliza inconformidades com os padrões da organização. 🔎
+* Fornece estratégias de mitigação. 🧰
+* Patches de software, aplicados automaticamente, também ajudam nesse quesito. 💁‍♂️
+
+#### GERENCIABILIDADE - Opções de capacidade de gerenciamento. 👨‍💼
+* Exemplos:
+  * Utilizar modelo pré-configurado do portal, removendo a necessidade de configuração manual; 🎛️
+  * Utilização de APIs; 🔌
+  * Utilização do PowerShell. ⚙️💻
