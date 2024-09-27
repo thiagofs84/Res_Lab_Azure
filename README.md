@@ -58,3 +58,19 @@
   * Utilizar modelo pré-configurado do portal, removendo a necessidade de configuração manual; 🎛️
   * Utilização de APIs; 🔌
   * Utilização do PowerShell. ⚙️💻
+  * 
+  ## 🏫 Aula: Criando Máquinas Virtuais na Azure
+
+### 🔖 Conteúdo: Beneficios da Nuvem - Laboratório
+
+#### SLAs 🤝
+* 99% = 1,68 horas de inatividade por semana.
+* 99,9% = 10,1 minutos de inatividade por semana.
+* 99,95% = 5 minutos de inatividade por semana.
+* 99,99% = 1,01 minutos de inatividade por semana.
+* 99,999% = 6 segundos de inatividade por semana.
+> Caso não atendido, o cliente recebe um voucher com crédito correspondente a uma indenização.
+
+> Recursos criados com mais 'noves' possuem menos tempo de inatividade.
+ 
+> As opções de gerenciamentam e outras configurações refletem no percentual do SLA.
