@@ -102,4 +102,4 @@
 
 > As nomenclaturas Iaas, PaaS e Saas não são exclusivos da Azure, são contextos genéricos de núvem.
 
-[Módulo 2️⃣ | Componenentes de Arquitetura do Azure](https://github.com/thiagofs84/Res_Lab_Azure/blob/main/README2.md)
+[Módulo 2️⃣ | Componentes de Arquitetura do Azure](https://github.com/thiagofs84/Res_Lab_Azure/blob/main/README2.md)
