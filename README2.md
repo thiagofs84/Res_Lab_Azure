@@ -10,7 +10,13 @@
 * O Azure está presente em mais de 60 regiões correspondentes a mais de 140 paises. 🌍
 * As regiões são compostas de um ou mais datacenters muito próximos. [zona de disponibilidade]
 
-<h1 align="center"> 🗄️💻➡️ 🗄️💻➡️ 🗄️💻 </h1>
+<h1 align="center"> ☁️🗄️💻 ↔️ ☁️🗄️💻 ↔️ ☁️🗄️💻 </h1>
 
-* Cada datacenter é equipado com alimentação, resfriamento e rede independentes.
+* Cada datacenter é equipado com alimentação, resfriamento e rede independentes. 🔌 🧊 🕸️
+ 
+### 🔖 Conteúdo: Entendendo Pares de Região e Grupos de Recursos
+
+* PARES DE REGIÃO: Cada região possui uma região par que será acessada caso a região original seja impactada. 🧑‍🤝‍🧑
+  * Há cenários com replicação automática para alguns serviços. ⚙️
+    * [Regiões Pares](https://aka.ms/PairedRegions-ptb)
  
