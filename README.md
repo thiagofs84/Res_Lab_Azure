@@ -100,6 +100,8 @@
 #### Modelo de Responsabilidade Compartilhada.
 ![Modelo](https://github.com/thiagofs84/Res_Lab_Azure/blob/main/Modelo.JPG)
 
+[Módulo 2️⃣ | Componenentes de Arquitetura do Azure]
+
 
 
 > As nomenclaturas Iaas, PaaS e Saas não são exclusivos da Azure, são contextos genéricos de núvem.
