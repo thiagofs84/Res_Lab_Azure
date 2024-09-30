@@ -19,4 +19,5 @@
 * PARES DE REGIÃO: Cada região possui uma região par que será acessada caso a região original seja impactada. 🧑‍🤝‍🧑
   * Há cenários com replicação automática para alguns serviços. ⚙️
     * [Regiões Pares](https://aka.ms/PairedRegions-ptb)
- 
+   
+ [Pares de Região](https://github.com/thiagofs84/Res_Lab_Azure/blob/main/Regi%C3%B5es.PNG)
