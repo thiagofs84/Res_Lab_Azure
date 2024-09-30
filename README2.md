@@ -20,4 +20,12 @@
   * Há cenários com replicação automática para alguns serviços. ⚙️
     * [Regiões Pares](https://aka.ms/PairedRegions-ptb)
    
- [Pares de Região](https://github.com/thiagofs84/Res_Lab_Azure/blob/main/Regi%C3%B5es.PNG)
+![Pares de Região](https://github.com/thiagofs84/Res_Lab_Azure/blob/main/Regi%C3%B5es.PNG)
+
+* REGIÕES SOBERANAS DO AZURE: Regiões exclusivas de governos (atualmente EUA e China). 🧑‍🤝‍🧑
+  * Inacessíveis para usuários não autorizados.
+    * Serviços Governamentais dos EUA - Voltado  às necessidades de segurança e conformidade das agencias federais. 🗽
+    * Azure China - A Microsoft é o 1º provedor estrangeiro de serviços de nuvem pública na China. (fisicamente separada dos serviços de nuvem - 21Vinet) 🎖️
+   
+   * RECURSOS DO AZURE: Componentes como armazenamento, máquinas virtuais e redes disponíveis para soluções de nuvem. ☁️
+   *  
