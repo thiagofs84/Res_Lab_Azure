@@ -35,5 +35,13 @@
       
 ### 🔖 Conteúdo: Assinatura da Azure e Grupos de Gerenciamentos
 
-* ASSINATURA DO DESENVOLVIMENTO: ⚙️
-* ASSINATURA DO TESTE. 
+* ASSINATURA DO DESENVOLVIMENTO 🔑⚙️
+* ASSINATURA DO TESTE 🔑🧪
+* ASSINATURA DA PRODUÇÃO 🔑🕴️
+
+> ❗ Uma conta pode ter diversas assinaturas mas uma assinatura está associada apenas a uma conta.
+
+  * As assinaturas do Azure permitem gerenciar limites de cobrança e controles de acesso
+
+* GRUPOS DE GERENCIAMENTO
+  * Regras padrões para gerenciar assinaturas
