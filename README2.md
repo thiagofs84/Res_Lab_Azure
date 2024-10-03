@@ -28,4 +28,12 @@
     * Azure China - A Microsoft é o 1º provedor estrangeiro de serviços de nuvem pública na China. (fisicamente separada dos serviços de nuvem - 21Vinet) 🎖️
    
    * RECURSOS DO AZURE: Componentes como armazenamento, máquinas virtuais e redes disponíveis para soluções de nuvem. ☁️
-   *  
+     * Ao criar uma maquina virtual por exemplo é importante organizar os respectivos recursos - [criar grupo de recursos] 🗃️
+       * Os recursos podem existir em apenas um grupo e em diferentes regioes.
+       * Podem ser movidos
+       * Os aplicativos podem utilizar varios grupos de recurso.
+      
+### 🔖 Conteúdo: Assinatura da Azure e Grupos de Gerenciamentos
+
+* ASSINATURA DO DESENVOLVIMENTO: ⚙️
+* ASSINATURA DO TESTE. 
