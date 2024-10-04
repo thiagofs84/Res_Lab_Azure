@@ -45,3 +45,26 @@
 
 * GRUPOS DE GERENCIAMENTO
   * Regras padrões para gerenciar assinaturas
+ 
+ ## 🏫 Aula: Computação e Rede na Azure
+### 🔖 Conteúdo: Serviços de Computação e Máquinas Virtuais do Azure
+
+* SERVIÇOS DE COMPUTAÇÃO DO AZURE: serviço sob demanda que fornece recursos de computação, como discos, processadores, memória, rde e sistemas operacionais.
+  * Exemplos → Virtual Virtuais, Aplicativo Serviços, Contêiner Instancias  Serviços de Kubernetes do Azure, Area de Trabalho Virtual do Azure.
+* MÁQUINAS VIRTUAIS DO AZURE: são emulações de software de computadores fisicos que incluem processador virtual, memória, armazenamento e rede 💻
+* CONJUNTOS DE DIMENSIONAMENTO DE VMs: oferecem uma oportunidade de balanceamento de carga para dimensionar os recursos automaticamente. ⚖️⚙️
+
+### 🔖 Conteúdo: Conjuntos de Disponibilidade de Máquinas Virtuais do Azure
+
+* Estratégia para configurar a VM em racks diferentes.
+  * Cada rack é chamado de dominio de falha;
+  * As VMs são distribuidas em dominios de atualização.
+ 
+ ### 🔖 Conteúdo: Área de Trabalho Virtual e Contêineres do Azure
+
+* ÁREA DE TRABALHO VIRTUAL: Executa aplicativos completos através da nuvem. ☁️
+* SERVIÇOS DE CONTÊINERES DO AZURE: fornecem um ambiente leve e virtual que não exige o gerenciament do sistema operacional e pode responder a alterações sob demanda.
+  * Instancias de contêiner - oferta PaaS executado no azure
+  * Aplicativos de conteiner - oferta PAaS que pode balancear a carga e escalar.
+  * Serviço de Kubernetes do Azure: um serviço de orquestração para contêineres com arquiteturas distribuídas e grandes volumes de contêineres.
+* 
