@@ -92,7 +92,7 @@
 >
 > **CONTÊINERES**
 > * Ambiente leve, adequado para microsserviços. 🧩
-> * Projetado para escalabilidade e resiliência com orquestração (AKS). ⚙️
+> * Projetado para escalabilidade e resiliência com orquestração (AKS-Azure Kubernets Service). ⚙️
 >
 > **SERVIÇOS DE APLICATIVOS**
 > * Plataforma totalmente gerenciada para criar e implantar rapidamente aplicativos web e APIs. 🌐🚀
