@@ -102,7 +102,7 @@
   * A REDE VIRTUAL do AZURE (VNet) permite que os recursos do Azure se comuniquem entre si, com a Internet e redes locais. 🌐💬
     * As sub-redes virtuais segmentam a rede conforme as necessidades. 🕸️📶
     * O emparelhamento de rede conecta redes privadas diretamente. 🔗
-      * Ao criar uma máquina virtual, ela recisa ter um IP, o IP vai ser de uma sub-rede que responde para uma VNet.
+      * Ao criar uma máquina virtual, ela precisa ter um IP, o IP vai ser de uma sub-rede que responde para uma VNet.
   * **GATEWAY DE VPN**: Usado para enviar tráfego criptografado entre uma rede virtual do Azure e uma no local pela Internet pública. 🔒🌍
   * **EXPRESSROUTE**: Comunicação direta, via cabo, ligando o data center da empresa até o da Microsoft, proporcionando mais performance e segurança. 🚀🔗
   * **DNS DO AZURE**: Baseado no gerenciador de recursos do Azure, permite controle de acesso baseado em função e monitoramento de logs. 🛠️📝
