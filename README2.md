@@ -96,7 +96,7 @@
 >
 > **SERVIÇOS DE APLICATIVOS**
 > * Plataforma totalmente gerenciada para criar e implantar rapidamente aplicativos web e APIs. 🌐🚀
-> * Suporta .NET, Java, Python e PHP, entre outros. 💻🔧
+> * Suporta .NET, ,NET Core, Node.js, Java, Python ou php. 💻🔧
 
 * **SERVIÇOS DE REDE DO AZURE**
   * A REDE VIRTUAL do AZURE (VNet) permite que os recursos do Azure se comuniquem entre si, com a Internet e redes locais. 🌐💬
