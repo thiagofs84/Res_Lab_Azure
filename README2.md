@@ -108,12 +108,12 @@
   * **DNS DO AZURE**: Baseado no gerenciador de recursos do Azure, permite controle de acesso baseado em função e monitoramento de logs. 🛠️📝
     * Suporta nomes de domínio privados e personalizados nas redes virtuais. 🌐🔧
    
-  ## 🥼 LABORATÓRIO: COMPUTAÇÃO E REDE
+## 🥼 LABORATÓRIO: COMPUTAÇÃO E REDE
 
-  ### MÁQUINA VIRTUAL
+### MÁQUINA VIRTUAL
   Para criar uma maquina virtual é necessária a configuração de 8 abas. (há uma ambém opção de criação com definiç~es pré-configuradas).
 
-  #### Basico
+#### Basico
   * Detalhes do Projeto
     * Assinatura - Vem como padrão uma determinada asnatura. Alterar se necessário
     * Grupo de Recursos - Precisa ser criado previamente.
@@ -145,7 +145,7 @@
     * Excluir o IP público e a NIC quando a VM for excluída - Recomendado habilitar, pois reliza a exclusão da rede em conjunto com a exclusão da VM. Evitando a existencia de redes orfãns e custos desnecessários.
 #### Gerenciamento
   * Desligamento automático
-    * Habilitar desligamento automático - Nã há opção d ligação automática
+    * Habilitar desligamento automático - Não há opção de ligação automática
   * Backup
     * Habilitar backup - Importante habilitar no contexto de estar utilizando a VM como infraestrutura como serviço.
     * Subtipo de política - Há a opção Padrão que atualiza o backup apenas uma vez por dia e a opção avançada que faz vários backup durante o dia entre outras melhorias.
@@ -161,5 +161,8 @@
 
 #### Revisar + criar
   * Nesta etapa podemos verificar a estimativa de preço do projeto da VM e criar a VM
+
+![parametros criação de VM](https://github.com/thiagofs84/Res_Lab_Azure/blob/main/Criar%20uma%20m%C3%A1quina%20virtual%20-%20Microsoft%20Azure.pdf)
+
 
 
