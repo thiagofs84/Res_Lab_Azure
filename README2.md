@@ -107,4 +107,59 @@
   * **EXPRESSROUTE**: Comunicação direta, via cabo, ligando o data center da empresa até o da Microsoft, proporcionando mais performance e segurança. 🚀🔗
   * **DNS DO AZURE**: Baseado no gerenciador de recursos do Azure, permite controle de acesso baseado em função e monitoramento de logs. 🛠️📝
     * Suporta nomes de domínio privados e personalizados nas redes virtuais. 🌐🔧
+   
+  ## 🥼 LABORATÓRIO: COMPUTAÇÃO E REDE
+
+  ### MÁQUINA VIRTUAL
+  Para criar uma maquina virtual é necessária a configuração de 8 abas. (há uma ambém opção de criação com definiç~es pré-configuradas).
+
+  #### Basico
+  * Detalhes do Projeto
+    * Assinatura - Vem como padrão uma determinada asnatura. Alterar se necessário
+    * Grupo de Recursos - Precisa ser criado previamente.
+  * Detalhes da Instância
+    * Nome da máquina virtual - defina um nome coerente
+    * Região  - é deteminada uma região previamente, mas pode ser alterada a critério. Há regiões mais caras que outras conforme oferta X demanda.
+    * Opções de disponibilidade:
+      * Nenhuma redundancia infraestrutura necesária;
+      * Zona de disponibilidade;
+      pode se trabalhar com n zonas, onde cada uma corresponde a um data center
+      * Conjunto de dimensionamento de máquinas virtuais;
+      onde As máquinas virtuais só podem ser adicionadas a um conjunto de dimensionamento com o modo de orquestração flexível e vários grupos de posicionamento habilitados.
+      * Conjunto de disponibilidade
+    * Tipo de segurança - escolher a opção mais viavel
+    * Imagem - escolher a opção mais viavel
+    * Executar com desconto SPOT do Azure - é utilizada a capacidade não utilizada do Azure, porém as cargas necessitam ser tolerantes a perda de infraestrutura pois podem ser derrubadas caso o recurso passe a ser contrato pelo preço padrão por outro cliente.
+    * tamanho - clicar em 'Ver todos os tamnhos para entender  opção que melhor se adequa na relação custo beneficio. Selecione um tamanho de VM para dar suporte à carga de trabalho que você deseja executar. O tamanho escolhido determina fatores como capacidade de processamento, memória e capacidade de armazenamento. 
+  * Conta de administrador
+    * Definir usuário e senha
+
+#### Discos
+  * Disco de SO
+    * Tamanho do disco do SO - definir tamnhomis adequado
+    * Tipo de disco de SO - as opões'Premium' são mais caras, mas são ideias para se utilizarem ambient de produção.
+    * Excluir com VM - Recomendado habilitar, pois reliza a exclusão do disco em conjunto com a exclusão da VM. Evitando a existencia de discos orfãos e custos desnecessários. 
+#### Rede
+  * Interface de rede
+    * Rede virtual - é criada automaticamente ou pode-se criar uma confome próprio criério
+    * Excluir o IP público e a NIC quando a VM for excluída - Recomendado habilitar, pois reliza a exclusão da rede em conjunto com a exclusão da VM. Evitando a existencia de redes orfãns e custos desnecessários.
+#### Gerenciamento
+  * Desligamento automático
+    * Habilitar desligamento automático - Nã há opção d ligação automática
+  * Backup
+    * Habilitar backup - Importante habilitar no contexto de estar utilizando a VM como infraestrutura como serviço.
+    * Subtipo de política - Há a opção Padrão que atualiza o backup apenas uma vez por dia e a opção avançada que faz vários backup durante o dia entre outras melhorias.
+#### Monitoramento
+  * Alertas
+    * Habilitar regras de alerta recomendadas
+ 
+#### Avançado
+  * Extensões - é possivel realizar a inclsão de uma extesão nesta etapa. As extensões podem realizar automações e configurações.
+
+#### Marcas
+  * Marcas são pares de nome/valor que permitem classificar recursos e exibir faturamento consolidado aplicando a mesma marca a vários recursos e grupos de recursos
+
+#### Revisar + criar
+  * Nesta etapa podemos verificar a estimativa de preço do projeto da VM e criar a VM
+
 
